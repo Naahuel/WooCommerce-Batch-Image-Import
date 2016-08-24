@@ -1,11 +1,11 @@
 <?php
 /*
 	Plugin Name:            WooCommerce Import Images
-	Plugin URI:             https://www.abracreativa.com/
-	Description:            Import product images
+	Plugin URI:             https://github.com/Naahuel/WooCommerce-Batch-Image-Import
+	Description:            Import WooCommerce product images
 
-	Author:					A:BRA
-	Author URI:			https://www.abracreativa.com/
+	Author:					Nahuel José
+	Author URI:			http://www.nahueljose.com.ar/
 
 	Version:				0.0.1
 
